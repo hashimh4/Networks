@@ -1,4 +1,4 @@
-# Networks
+# Networks and Security
 
 **Second Year (2021/2022) Networks and Systems Module, Networks - 80%**
 
